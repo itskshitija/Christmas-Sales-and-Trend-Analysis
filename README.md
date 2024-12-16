@@ -3,7 +3,10 @@
 </a>
 
 # Christmas Sales and Trend Analysis
-<img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="80" height="80">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="80" height="80">
+  <img src="https://github.com/user-attachments/assets/0cac1be6-e5e2-4883-bccb-c20e2645e5d8" alt="another-icon" width="100" height="80">
+</p>
 
 ## Table of Contents
 - [Overview](#overview)
@@ -33,3 +36,5 @@ This project delves into Christmas sales data to uncover key shopping trends and
 *9. What are the main reasons for product returns during Christmas, and do these differ from returns during other periods?*
 
 *10. How do weather (e.g., snowy, sunny) or specific Christmas events (e.g., "Christmas Market") influence sales and customer behavior?*
+
+### Summary of Insights
