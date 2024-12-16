@@ -4,8 +4,8 @@
 
 # Christmas Sales and Trend Analysis
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="80" height="80">
-  <img src="https://github.com/user-attachments/assets/0cac1be6-e5e2-4883-bccb-c20e2645e5d8" alt="another-icon" width="100" height="80">
+  <img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="60" height="50">
+  <img src="https://github.com/user-attachments/assets/0cac1be6-e5e2-4883-bccb-c20e2645e5d8" alt="another-icon" width="60" height="50">
 </p>
 
 ## Table of Contents
