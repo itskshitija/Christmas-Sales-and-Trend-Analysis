@@ -10,11 +10,17 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Data Summary](#data-summary)
 - [Business Questions](#business-questions)
 - [Summary of Insights](#summary-of-insights)
 
 ### Overview
 This project delves into Christmas sales data to uncover key shopping trends and consumer behaviors during the holiday season. By analyzing customer preferences, purchase patterns, and promotional impacts, it aims to provide insights that enhance satisfaction and optimize strategies for future festive campaigns.
+
+### Data Summary
+
+![image](https://github.com/user-attachments/assets/4392d634-9cb9-4d06-b4b2-a00e5e718eac)
+
 
 ### Business Questions
 *1. How do sales volumes fluctuate during Christmas compared to other periods in the dataset?*
