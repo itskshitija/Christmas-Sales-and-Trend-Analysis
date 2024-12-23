@@ -53,7 +53,7 @@ This project delves into Christmas sales data to uncover key shopping trends and
 
 - Customer satisfaction slightly declines during Christmas due to high demand and longer delivery times compared to non-holiday periods.
 
-- 50.9% of orders during Christmas include gift wrapping.
+- 50-51% of orders during Christmas include gift wrapping. 
 
 - Express shipping gains popularity during Christmas; however, late deliveries often lead to a decline in customer satisfaction rates.
 
