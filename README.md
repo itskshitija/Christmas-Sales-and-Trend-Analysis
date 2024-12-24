@@ -5,10 +5,19 @@
 # Christmas Sales and Trend Analysis
 
 ## Table of Contents
+- [Dashboard Preview](#dashboard-preview)
 - [Overview](#overview)
 - [Data Summary](#data-summary)
 - [Business Questions](#business-questions)
 - [Summary of Insights](#summary-of-insights)
+
+## Dashboard Preview
+![dashb1](https://github.com/user-attachments/assets/53ba8c5d-52c8-4ef3-aba4-7984d6ea8fbf)
+
+![dashb2](https://github.com/user-attachments/assets/05c64877-0e97-458b-bc66-d6336aa8d765)
+
+![dashb3](https://github.com/user-attachments/assets/5418aef9-dc29-4674-ac03-99e64356ec10)
+
 
 ### Overview
 This project delves into Christmas sales data to uncover key shopping trends and consumer behaviors during the holiday season. By analyzing customer preferences, purchase patterns, and promotional impacts, it aims to provide insights that enhance satisfaction and optimize strategies for future festive campaigns.
