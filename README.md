@@ -59,4 +59,16 @@ This project delves into Christmas sales data to uncover key shopping trends and
 
 - Product return rates during Christmas often rise due to various factors, including receiving the wrong items, damaged goods, or gifts that do not meet the recipient's preferences or expectations. The high volume of orders during the festive season increases the likelihood of errors in packing and shipping. Additionally, gift exchanges are common during this period, leading to returns when items do not suit the recipient's needs.
 
-- The rate of online ordering has been steadily increasing across all weather conditions, with a noticeable spike during rainy weather. 
+- The rate of online ordering has been steadily increasing across all weather conditions, with a noticeable spike during rainy weather.
+
+
+# **Author Information**
+
+#### 👤Kshitija Chilbule
+
+### Contact Information:
+- 📞 <b>Phone:</b> 7620424864
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Portfolio:</b> https://itskshitija.github.io/My-Portfolio/
