@@ -33,7 +33,7 @@ The insights aim to support decision-making for holiday campaigns and optimize f
 ![image](https://github.com/user-attachments/assets/4392d634-9cb9-4d06-b4b2-a00e5e718eac)
 
 
-## Business Questions 📶
+## 📶Business Questions 
 *1. How do sales volumes fluctuate during Christmas compared to other periods in the dataset?*
 
 *2. What are the age and gender distributions of customers making purchases during Christmas?*
