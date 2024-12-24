@@ -19,15 +19,15 @@
 ![dashb3](https://github.com/user-attachments/assets/5418aef9-dc29-4674-ac03-99e64356ec10)
 
 
-### Overview
+## Overview
 This project delves into Christmas sales data to uncover key shopping trends and consumer behaviors during the holiday season. By analyzing customer preferences, purchase patterns, and promotional impacts, it aims to provide insights that enhance satisfaction and optimize strategies for future festive campaigns.
 
-### Data Summary
+## Data Summary
 
 ![image](https://github.com/user-attachments/assets/4392d634-9cb9-4d06-b4b2-a00e5e718eac)
 
 
-### Business Questions
+## Business Questions
 *1. How do sales volumes fluctuate during Christmas compared to other periods in the dataset?*
 
 *2. What are the age and gender distributions of customers making purchases during Christmas?*
@@ -48,7 +48,7 @@ This project delves into Christmas sales data to uncover key shopping trends and
 
 *10. How do weather (e.g., snowy, sunny) or specific Christmas events (e.g., "Christmas Market") influence sales and customer behavior?*
 
-### Summary of Insights
+## Summary of Insights
 
 - Sales volume tends to experience a significant increase during Christmas, driven by a surge in demand for gifts, holiday promotions, and seasonal shopping. The festive period brings heightened consumer activity as people indulge in purchasing gifts for loved ones, take advantage of special offers, and fulfill holiday-related needs. Additionally, the end-of-year shopping rush, along with extended sales events, contributes to a spike in sales figures
 
